@@ -5,5 +5,5 @@
 
 This is the base Nerves system definition for the [Radxa Rock 5B+](https://radxa.com/products/rock5/5bp/).
 
-![Radxa Rock 5B+ image](assets/images/rock-5bp.webp)
+![Radxa Rock 5B+ image](assets/images/rock5bp.png)
 <br><sup>[Radxa Website](https://radxa.com/rock5/rock_5b+/banner_rock5bp.webp)</sup>
