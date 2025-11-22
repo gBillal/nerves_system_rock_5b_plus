@@ -22,4 +22,8 @@ nerves_system_rock_5b_plus-*.tar
 # Temporary files, for example, from tests.
 /tmp/
 
-.nerves
+# Ignore our generated files
+/build.log
+/archive.log
+/.nerves
+/nerves_system_rock_5b_plus-*.tar.gz
