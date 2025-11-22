@@ -1,0 +1,7 @@
+config BR2_PACKAGE_RTW89
+    bool "rtw89 WiFi driver for RTL8852BE"
+    depends on BR2_LINUX_KERNEL              # needs a kernel
+    help
+      Out-of-tree Realtek RTL8852BE PCIe WiFi driver.
+
+      Source: https://github.com/a5a5aa555oo/rtw89
