@@ -11,7 +11,7 @@ This is the base Nerves system definition for the [Radxa Rock 5B+](https://radxa
 | Feature              | Description                      |
 | -------------------- | -------------------------------- |
 | CPU                  | Quad-core Cortex-A76 up to 2.4GHz / Quad-small-core Cortex-A55 up to 1.8GHz     |
-| Memory               | 4/8/16/32 64 Gbit LPDDR5         |
+| Memory               | 4/8/16/32 64 GB LPDDR5           |
 | Storage              | Onboard eMMC / MicroSD           |
 | Linux kernel         | 6.1 w/ Radxa patches             |
 | IEx terminal         | HDMI and USB keyboard (can be changed to UART) |
