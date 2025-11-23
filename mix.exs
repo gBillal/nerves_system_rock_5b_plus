@@ -102,9 +102,9 @@ defmodule NervesSystemRock5bPlus.MixProject do
     [
       "fwup_include",
       "rootfs_overlay",
+      "linux",
+      "overlays",
       "CHANGELOG.md",
-      "cmdline.txt",
-      "config.txt",
       "fwup-ops.conf",
       "fwup.conf",
       "LICENSES/*",
@@ -114,8 +114,10 @@ defmodule NervesSystemRock5bPlus.MixProject do
       "post-build.sh",
       "post-createfs.sh",
       "README.md",
-      "REUSE.toml",
-      "VERSION"
+      "VERSION",
+      "idbloader.img",
+      "u-boot.itb",
+      "extlinux.conf"
     ]
   end
 
