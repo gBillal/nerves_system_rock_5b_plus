@@ -12,7 +12,7 @@ defmodule NervesSystemRock5bPlus.MixProject do
     [
       app: @app,
       version: @version,
-      elixir: "~> 1.17",
+      elixir: "~> 1.18",
       compilers: Mix.compilers() ++ [:nerves_package],
       nerves_package: nerves_package(),
       description: description(),
