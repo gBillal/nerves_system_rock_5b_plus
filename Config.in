@@ -5,3 +5,4 @@
 
 source "$NERVES_DEFCONFIG_DIR/packages/rtw89/Config.in"
 source "$NERVES_DEFCONFIG_DIR/packages/rkmpp/Config.in"
+source "$NERVES_DEFCONFIG_DIR/packages/rga/Config.in"
