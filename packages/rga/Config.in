@@ -1,0 +1,6 @@
+config BR2_PACKAGE_RGA
+    bool "RGA"
+    help
+        Rockchip RGA (Raster Graphic Acceleration Unit)
+
+        Source: https://github.com/airockchip/librga
